@@ -1,0 +1,24 @@
+{
+  "name": "vanilla-html-template",
+  "version": "1.0.0",
+  "description": "快速生成能用的html文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "anywhere -p 8888 -f /index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiny-CLI-Template/vanilla-html-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiny-CLI-Template/vanilla-html-template/issues"
+  },
+  "homepage": "https://github.com/Tiny-CLI-Template/vanilla-html-template#readme",
+  "devDependencies": {
+    "anywhere": "^1.5.0"
+  }
+}
